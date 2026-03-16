@@ -1,0 +1,2 @@
+# animeinfo
+animeinformation
